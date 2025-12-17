@@ -1,0 +1,3 @@
+Machine learning is a field of artificial intelligence that focuses on enabling systems to learn from data.
+It includes supervised learning, unsupervised learning, and reinforcement learning.
+Machine learning models are widely used in search engines, recommendation systems, and computer vision.

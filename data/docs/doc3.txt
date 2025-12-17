@@ -1,0 +1,3 @@
+Search engines work by indexing large collections of documents and ranking them based on relevance.
+An inverted index maps words to the documents in which they appear.
+Ranking algorithms such as TF-IDF help determine which documents best match a query.
